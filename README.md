@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! I'm Ketan 👋
 
-<!--
-**ketangodhani/ketangodhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 I am a **Full Stack Developer** passionate about building scalable web applications.
+- 🎓 I enjoy exploring new technologies and solving complex problems through code.
+- 🔭 I’m currently working on improving my portfolio and deep-diving into **Market Analysis Tools**.
+- 🌱 I’m currently learning more about **Industry & Sector Analysis** through data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | **Next.js**, **React.js**, **Express.js** |
+| **Languages** | **TypeScript**, **JavaScript**, **Node.js**, **HTML/CSS** |
+| **Styling** | **Tailwind CSS**, **shadcn/ui** |
+| **State Management** | **Redux**, **Zustand**, **Context API** |
+| **Data Validation & Auth** | **Zod**, JWT/Auth (NextAuth) |
+| **Libraries** | **Axios**, **Lodash** |
+| **Database** | **MongoDB** |
+---
+
+### 📊 GitHub Stats
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketangodhani&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketangodhani&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ketan-godhani)
+- 📧 [Email](mailto:087ketangodhani@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+- I love turning coffee into clean, efficient code! ☕
