@@ -18,7 +18,7 @@
 | **State Management** | **Redux**, **Zustand**, **Context API** |
 | **Data Validation & Auth** | **Zod**, JWT/Auth (NextAuth) |
 | **Libraries** | **Axios**, **Lodash** |
-| **Database** | **MongoDB** |
+| **Database** | **MongoDB**, **PostgreSQL** |
 ---
 
 ### 📊 GitHub Stats
